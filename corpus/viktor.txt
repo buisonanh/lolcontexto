@@ -1,0 +1,3 @@
+Name: viktor
+Role: MAGE
+Description: The herald of a new age of technology, Viktor has devoted his life to the advancement of humankind. An idealist who seeks to lift the people of Zaun to a new level of understanding, he believes that only by embracing a glorious evolution of technology can humanity's full potential be realized. With a body augmented by steel and science, Viktor is zealous in his pursuit of this bright future.
